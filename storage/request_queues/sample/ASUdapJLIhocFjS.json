@@ -1,0 +1,9 @@
+{
+	"id": "ASUdapJLIhocFjS",
+	"json": "{\"id\":\"ASUdapJLIhocFjS\",\"url\":\"https://crawlee.dev/api/core/class/EventManager\",\"loadedUrl\":\"https://crawlee.dev/api/core/class/EventManager\",\"uniqueKey\":\"https://crawlee.dev/api/core/class/EventManager\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"extract-item\"}}",
+	"method": "GET",
+	"orderNo": 1668097873337,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/core/class/EventManager",
+	"url": "https://crawlee.dev/api/core/class/EventManager"
+}
